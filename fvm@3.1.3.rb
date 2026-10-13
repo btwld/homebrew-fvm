@@ -2,8 +2,8 @@ require "yaml"
 
 class FvmAT313 < Formula
   desc "Simple cli to manage Flutter SDK versions per project"
-  homepage "https://github.com/leoafarias/fvm"
-  url "https://github.com/leoafarias/fvm/archive/3.1.3.tar.gz"
+  homepage "https://github.com/btwld/fvm"
+  url "https://github.com/btwld/fvm/archive/3.1.3.tar.gz"
   sha256 "df01c105f53dd1040683ba2c33fa300c1963fa667f14d09fb490e24dd4e064fc"
   license "MIT"
 
