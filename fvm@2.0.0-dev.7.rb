@@ -1,7 +1,7 @@
 class FvmAT200Dev7 < Formula
     desc "Simple cli to manage Flutter SDK versions per project"
-    homepage "https://github.com/leoafarias/fvm"
-    url "https://github.com/leoafarias/fvm/archive/2.0.0-dev.7.tar.gz"
+    homepage "https://github.com/btwld/fvm"
+    url "https://github.com/btwld/fvm/archive/2.0.0-dev.7.tar.gz"
     sha256 "b6715676c919edfb4514e5ec6adfb1e5708994aa088ccd8798141340c6c92785"
     license "MIT"
   
